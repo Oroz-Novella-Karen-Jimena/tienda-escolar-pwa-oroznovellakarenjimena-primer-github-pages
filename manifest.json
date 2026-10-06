@@ -3,7 +3,7 @@
     "name": "Tienda Escolar",
     "short_name": "Tienda",
     "description": "PWA de ventas de práctica para la Unidad 2",
-    "start_url": "./catalogo_ONKJ.html",
+    "start_url": "./index.html",
     "scope": "./",
     "display": "standalone",
     "orientation": "portrait-primary",
